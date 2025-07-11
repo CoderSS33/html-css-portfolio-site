@@ -16,7 +16,5 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 📷 Screenshot
-_Add your screenshot here_
 
 
